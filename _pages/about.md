@@ -8,14 +8,14 @@ profile:
   align: right
   image: KaiFeng_butter_beer.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Mingzhai Building</p>
-    <p>Tsinghua University</p>
-    <p>Haidian District, Beijing 100084</p>
+#  more_info: >
+#    <p>Mingzhai Building</p>
+#    <p>Tsinghua University</p>
+#    <p>Haidian District, Beijing 100084</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-# social: true # includes social icons at the bottom of the page
+#news: false # includes a list of news items
+#selected_papers: false # includes a list of papers marked as "selected={true}"
+#social: false # includes social icons at the bottom of the page
 ---
 
 As a **econometricist**, I use machine learning tools to explore 
@@ -25,7 +25,7 @@ As a **econometricist**, I use machine learning tools to explore
 
 Roughly speaking, I try to provide mathematical explanations for empirically successful machine learning methods and to justify their application in economic problems. 
 
-I am a third-year PhD candidate at the [Institution of Economics, School of Social Sciences, Tsinghua University](https://www.tioe.tsinghua.edu.cn/). During my research, I am fortunate to be advised by Professor [Jingyuan Wang](https://www.bigscity.com/), Professor [Ke Tang](https://sites.google.com/view/ketangs-research-page/home), and Professor Han Hong [https://profiles.stanford.edu/han-hong]. 
+I am a third-year PhD candidate at the [Institution of Economics, School of Social Sciences, Tsinghua University](https://www.tioe.tsinghua.edu.cn/). During my research, I am fortunate to be advised by Professor [Jingyuan Wang](https://www.bigscity.com/), Professor [Ke Tang](https://sites.google.com/view/ketangs-research-page/home), and Professor [Han Hong](https://profiles.stanford.edu/han-hong). 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

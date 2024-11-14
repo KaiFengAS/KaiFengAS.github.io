@@ -18,7 +18,7 @@ profile:
 #social: false # includes social icons at the bottom of the page
 ---
 
-As a **econometricist**, I use machine learning tools to explore 
+As a **econometrician**, I use machine learning tools to explore 
 - optimal policy design in asymptotic sense 
 - human-computer interaction in decision making 
 - (optimal) transport perspective of statistical estimation 

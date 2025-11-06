@@ -5,7 +5,7 @@ layout: default
   <div class="post">
     <header class="post-header">
       <h1 class="post-title">
-        {{ page.title1 }}
+        {{ page.titlecv }}
         {% if page.cv_pdf %}
           <a
             href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}"
@@ -20,7 +20,7 @@ layout: default
         <p class="post-description">{{ page.description }}</p>
       {% endif %}
       <h1 class="post-title">
-        {{ page.title2 }}
+        {{ page.titlejmp }}
         {% if page.jmp_pdf %}
           <a
             href="{{ page.jmp_pdf | prepend: 'assets/pdf/' | relative_url}}"

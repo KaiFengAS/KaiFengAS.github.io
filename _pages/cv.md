@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: resume.pdf
+cv_pdf: CV_Kai_November.pdf
 description: For more information, see the PDF file.
 toc:
   sidebar: left

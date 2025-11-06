@@ -24,44 +24,50 @@
   },
   "education": [
     {
-      "institution": "Tsinghua University, Beijing, China",
-      "location": "Beijing, China",
-      "url": "https://www.tsinghua.edu.cn/en/",
+      "institution": "Tsinghua University",
       "area": "Economics",
       "studyType": "PhD",
       "startDate": "2022-09-01",
       "endDate": "2026-06-01",
-      "score": "",
-      "courses": ["Econometrics"]
+      "score": ""
     }, 
     {
-      "institution": "Beihang University, Beijing, China",
-      "location": "Beijing, China",
-      "url": "https://ev.buaa.edu.cn/",
-      "area": "Computer Science and Technology",
-      "studyType": "M.E.",
-      "startDate": "2018-09-01",
-      "endDate": "2021-03-01",
-      "score": "",
-      "courses": ["Data Mining"]
+      "institution": "MIT",
+      "area": "Economics",
+      "studyType": "Visiting Student",
+      "startDate": "2025-10-01",
+      "endDate": "2026-02-28",
+      "score": ""
     }, 
     {
-      "institution": "Beihang University, Beijing, China",
-      "location": "Beijing, China",
-      "url": "https://ev.buaa.edu.cn/",
-      "area": "Mathematics",
-      "studyType": "Dual B.S.",
-      "startDate": "2015-09-01",
-      "endDate": "2018-06-01",
+      "institution": "Stanford University",
+      "area": "Economics",
+      "studyType": "Visiting Student Researcher",
+      "startDate": "2022-10-15",
+      "endDate": "2026-02-15",
       "score": ""
     }, 
     {
       "institution": "Beihang University, Beijing, China",
-      "location": "Beijing, China",
-      "url": "https://ev.buaa.edu.cn/",
-      "area": "Computer Science and Engineering",
+      "area": "Computer Science and Technology",
+      "studyType": "M.E.",
+      "startDate": "2018-09-01",
+      "endDate": "2021-03-01",
+      "score": ""
+    }, 
+    {
+      "institution": "Beihang University, Beijing, China",
+      "area": "Computer Science and Technology",
       "studyType": "B.E.",
       "startDate": "2014-09-01",
+      "endDate": "2018-06-01",
+      "score": ""
+    },
+    {
+      "institution": "Beihang University, Beijing, China",
+      "area": "Mathematics",
+      "studyType": "Dual B.S.",
+      "startDate": "2015-09-01",
       "endDate": "2018-06-01",
       "score": ""
     }

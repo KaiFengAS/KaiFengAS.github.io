@@ -23,7 +23,7 @@ As an **econometrician**, I use machine learning tools to explore
 - human-computer interaction in decision making 
 - (optimal) transport perspective of statistical estimation 
 
-Roughly speaking, I provide mathematical explanations for empirically successful machine learning methods and to justify their application in economic problems. 
+Roughly speaking, I provide mathematical explanations for empirically successful machine learning methods, and justify their application to economic problems. 
 
 I am a fourth-year PhD candidate at the [Institute of Economics, School of Social Sciences, Tsinghua University](https://www.tioe.tsinghua.edu.cn/). 
 I am on the job market this year. 

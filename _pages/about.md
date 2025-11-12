@@ -18,15 +18,15 @@ profile:
 #social: false # includes social icons at the bottom of the page
 ---
 
-As a **econometrician**, I use machine learning tools to explore 
-- optimal policy design in asymptotic sense 
+As an **econometrician**, I use machine learning tools to explore 
+- asymptotic properties of optimal policy design 
 - human-computer interaction in decision making 
 - (optimal) transport perspective of statistical estimation 
 
-Roughly speaking, I try to provide mathematical explanations for empirically successful machine learning methods and to justify their application in economic problems. 
+Roughly speaking, I provide mathematical explanations for empirically successful machine learning methods and to justify their application in economic problems. 
 
 I am a fourth-year PhD candidate at the [Institution of Economics, School of Social Sciences, Tsinghua University](https://www.tioe.tsinghua.edu.cn/). 
-I am in the job market this year. 
+I am on the job market this year. 
 
 <!--During my research, I am fortunate to be advised by Professor [Jingyuan Wang](https://www.bigscity.com/), Professor [Ke Tang](https://sites.google.com/view/ketangs-research-page/home), and Professor [Han Hong](https://profiles.stanford.edu/han-hong). -->
 

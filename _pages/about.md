@@ -20,7 +20,7 @@ profile:
 
 As an **econometrician**, I use machine learning tools to explore 
 - asymptotic properties of optimal policy design 
-- human-computer interaction in decision making 
+- human-computer interaction in decision-making 
 - (optimal) transport perspective of statistical estimation 
 
 Roughly speaking, I provide mathematical explanations for empirically successful machine learning methods, and justify their application to economic problems. 
